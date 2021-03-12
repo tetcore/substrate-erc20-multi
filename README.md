@@ -1,4 +1,4 @@
-# Substrate ERC20 Multi
+# Tetcore VRC20 Multi
 
 **Archived** - This repository is no longer up-to-date or maintained. Please refer to the [FRAME Balances pallet](https://crates.parity.io/pallet_balances/index.html).
 
